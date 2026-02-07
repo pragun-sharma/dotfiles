@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+
+# Secrets (adjust!)
+secrets
+*.key
+# .env
